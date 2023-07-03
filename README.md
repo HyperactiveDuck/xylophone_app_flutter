@@ -1,3 +1,3 @@
 # xylophone_app_flutter
 
-A new Flutter project.
+A basic xylophone with 7 notes
